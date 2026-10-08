@@ -32,6 +32,9 @@ Git · GitHub · VS Code · REST APIs · JWT · GitHub API
 
 ### 📧 AI-Powered Gmail Storage Cleaner
 AI-assisted Gmail management system designed to identify and clean unwanted emails using Gmail API, authentication, and AI classification.
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumeetsrivastav07&show_icons=true&hide_border=true&rank_icon=github)
 
 ### 🏙️ Unified Civic Issue Reporting System
 MERN-based platform for reporting, tracking, and managing civic complaints.
