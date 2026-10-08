@@ -48,4 +48,4 @@ Secure REST API built with Node.js, Express.js, MongoDB, JWT authentication, and
 ## 📫 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sumeet-srivastav-90917638a/?isSelfProfile=true)
-- 📧 Email: YOUR_EMAIL
+- 📧 Email: sumeetsrivastav0728@gmail.com
